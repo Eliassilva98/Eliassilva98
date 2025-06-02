@@ -7,7 +7,7 @@
 Desenvolvedor Web em Formação | Foco em JavaScript, React, Python, SQL, Node.js, Angular e TypeScript
 📍 Medianeira, PR | 📧 eliasblum79@gmail.com | 📞 (45) 99118-9959 | 🌐 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="lindedin-logo" /></a>
 <br>
-<br>
+<br> Em Aprendizado :
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="js-logo" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs-logo" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="phyton-logo" />
