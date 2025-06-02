@@ -31,7 +31,9 @@ Desenvolvedor Web em Formação | Foco em JavaScript, React, Python, SQL, Node.j
 </div>
 
 :arrow_right_hook: <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="algular-logo" />
-
+<br>
+- Ferramentas e Plataformas :  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github-logo"> <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg"/> 
+<br>
 <br>
 Acesse Minhas Redes Sociais: :point_down:
 <br>
