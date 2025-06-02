@@ -1,5 +1,4 @@
-Olá
-Eu me chamo Elias Blum da Silva sou um programador Front-End, atualmente estou aprendendo e criando projetos com:
+:wave: Olá! Sou um desenvolvedor Front-End iniciante apaixonado por tecnologia e aprendizado contínuo. Atualmente, estou estudando HTML, CSS e JAVASCRIPT e desenvolvendo projetos pessoais para aprimorar minhas habilidades. Busco oportunidades para aplicar meus conhecimentos em ambientes colaborativos e desafiadores.
 <br>
 <div>
 :arrow_right_hook: <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
@@ -8,7 +7,8 @@ Eu me chamo Elias Blum da Silva sou um programador Front-End, atualmente estou a
 :arrow_right_hook: <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" /> 
 </div>
 <br>
-Próximas linguagens de programação a aprender: :pencil:
+Desenvolvedor Web em Formação | Foco em JavaScript, React, Python, SQL, Node.js, Angular e TypeScript
+📍 Medianeira, PR | 📧 eliasblum79@gmail.com | 📞 (45) 99118-9959 | 🌐 <a href=https://www.linkedin.com/in/elias-blum-da-silva-861b881b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="lindedin-logo" /></a>
 <br>
 <br>
 <div>
