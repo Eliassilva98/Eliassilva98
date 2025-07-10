@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="js-logo" />
 <br>
 <br>
-Desenvolvedor Web em Formação | Foco em JavaScript, React, Python, SQL, Node.js, Angular e TypeScript
+Desenvolvedor Web em Formação | Foco em JavaScript.
 📍 Medianeira, PR | 📧 eliasblum79@gmail.com | 📞 (45) 99118-9959 | 🌐 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="lindedin-logo" /></a>
 <br>
 <br> Em Aprendizado :
