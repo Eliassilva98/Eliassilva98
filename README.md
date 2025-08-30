@@ -1,14 +1,16 @@
-:wave: Olá! Sou um desenvolvedor Front-End iniciante apaixonado por tecnologia e aprendizado contínuo. Atualmente, estou estudando React e desenvolvendo projetos pessoais para aprimorar minhas habilidades. Busco oportunidades para aplicar meus conhecimentos em ambientes colaborativos e desafiadores.
-<br>
+<h1 style='font-weight: bold; font-size: 40px;'>Olá :wave: me chamo Elias</h1>
 
-<img src="https://img.icons8.com/?size=100&id=J79emsSv2QCu&format=png&color=000000" alt="react-logo" />
+Sou um desenvolvedor Front-End iniciante apaixonado por tecnologia e aprendizado contínuo. Atualmente, estou estudando React e desenvolvendo projetos pessoais para aprimorar minhas habilidades. Busco oportunidades para aplicar meus conhecimentos em ambientes colaborativos e desafiadores.
 <br>
 <br>
+<p align="center">
+<h2 style='font-weight: bold; font-size: 30px;'>Linguagem e Framework que uso</h2>
+<img src="https://img.icons8.com/?size=100&id=J79emsSv2QCu&format=png&color=000000" alt="Logo 1" width="50px"/><img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="Logo 2" width="50px"/>
+</p>
 Desenvolvedor Web em Formação | Foco em JavaScript.
-📍 Medianeira, PR | 📧 eliasblum79@gmail.com | 📞 (45) 99118-9959 | 🌐 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="lindedin-logo" /></a>
+📍 Medianeira, PR | 📧 eliasblum79@gmail.com | 📞 (45) 99118-9959 | 🌐 <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="50px" alt="lindedin-logo" /></a>
 <br>
-<br>
-- Ferramentas e Plataformas :  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github-logo"> <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg"/> 
+- Ferramentas e Plataformas :  <img src="https://img.icons8.com/?size=100&id=ARy6tFUfwclb&format=png&color=000000" width="50px" alt="github-logo"> <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" width="50px"/> 
 
 Acesse Minhas Redes Sociais: :point_down:
 
