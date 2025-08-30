@@ -8,13 +8,6 @@
 Desenvolvedor Web em Formação | Foco em JavaScript.
 📍 Medianeira, PR | 📧 eliasblum79@gmail.com | 📞 (45) 99118-9959 | 🌐 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="lindedin-logo" /></a>
 <br>
-<br> Em Aprendizado :
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs-logo" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="phyton-logo" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo" />
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql-logo" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript-logo" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="algular-logo" />
 <br>
 - Ferramentas e Plataformas :  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github-logo"> <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg"/> 
 
