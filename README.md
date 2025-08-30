@@ -1,7 +1,7 @@
 :wave: Olá! Sou um desenvolvedor Front-End iniciante apaixonado por tecnologia e aprendizado contínuo. Atualmente, estou estudando React e desenvolvendo projetos pessoais para aprimorar minhas habilidades. Busco oportunidades para aplicar meus conhecimentos em ambientes colaborativos e desafiadores.
 <br>
 
-<img src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000" alt="react-logo" />
+<img src="https://img.icons8.com/?size=100&id=J79emsSv2QCu&format=png&color=000000" alt="react-logo" />
 <br>
 <br>
 Desenvolvedor Web em Formação | Foco em JavaScript.
