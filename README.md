@@ -1,4 +1,4 @@
-:wave: Olá! Sou um desenvolvedor Front-End iniciante apaixonado por tecnologia e aprendizado contínuo. Atualmente, estou estudando HTML, CSS e JAVASCRIPT e desenvolvendo projetos pessoais para aprimorar minhas habilidades. Busco oportunidades para aplicar meus conhecimentos em ambientes colaborativos e desafiadores.
+:wave: Olá! Sou um desenvolvedor Front-End iniciante apaixonado por tecnologia e aprendizado contínuo. Atualmente, estou estudando React e desenvolvendo projetos pessoais para aprimorar minhas habilidades. Busco oportunidades para aplicar meus conhecimentos em ambientes colaborativos e desafiadores.
 <br>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" /> 
