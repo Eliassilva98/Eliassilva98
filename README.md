@@ -1,6 +1,6 @@
 <h1 style='font-weight: bold; font-size: 40px;'>Olá :wave: me chamo Elias</h1>
 
-Sou um desenvolvedor Front-End iniciante apaixonado por tecnologia e aprendizado contínuo. Atualmente, estou estudando React e desenvolvendo projetos pessoais para aprimorar minhas habilidades. Busco oportunidades para aplicar meus conhecimentos em ambientes colaborativos e desafiadores.
+Sou um desenvolvedor Full Stack iniciante apaixonado por tecnologia e aprendizado contínuo. Atualmente, estou estudando React e Node.js e desenvolvendo projetos pessoais para aprimorar minhas habilidades. Busco oportunidades para aplicar meus conhecimentos em ambientes colaborativos e desafiadores.
 <br>
 <br>
 <h2 style='font-weight: bold; font-size: 30px;'>Linguagem de programação e Framework que uso.</h2>
@@ -8,7 +8,10 @@ Sou um desenvolvedor Front-End iniciante apaixonado por tecnologia e aprendizado
 <p align="left">
 <img src="https://img.icons8.com/?size=100&id=J79emsSv2QCu&format=png&color=000000" alt="Logo 1" width="50px"/><img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="Logo 2" width="50px"/>
 </p>
-<br>
+<p>
+  <h1>Multiplataforma</h1>
+  <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000">
+</p>
 Desenvolvedor Web em Formação | Foco em JavaScript.
 📍 Medianeira, PR | 📧 eliasblum79@gmail.com | 📞 (45) 99118-9959 | 
 <br>
