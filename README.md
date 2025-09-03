@@ -12,7 +12,7 @@ Sou um desenvolvedor Full Stack iniciante apaixonado por tecnologia e aprendizad
   <h1>Multiplataforma</h1>
   <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000">
 </p>
-Desenvolvedor Web em Formação | Foco em JavaScript.
+Desenvolvedor Web em Formação | Foco em React e Node.js.
 📍 Medianeira, PR | 📧 eliasblum79@gmail.com | 📞 (45) 99118-9959 | 
 <br>
 - Ferramentas e Plataformas :
