@@ -1,26 +1,21 @@
 <h1 style='font-weight: bold; font-size: 40px;'>Olá :wave: me chamo Elias</h1>
 
-Sou um desenvolvedor Full Stack iniciante apaixonado por tecnologia e aprendizado contínuo. Atualmente, estou estudando React e Node.js e desenvolvendo projetos pessoais para aprimorar minhas habilidades. Busco oportunidades para aplicar meus conhecimentos em ambientes colaborativos e desafiadores.
+Sou um desenvolvedor **Full-Stack** apaixonado por criar projetos interativos e aprender novas tecnologias.  
+Atualmente estou explorando **React e Node.js**, e desenvolvendo projetos pessoais.  
+Tenho como inspiração o mestre **Rodolfo Mori** e sigo sempre aprendendo, errando, mas evoluindo a cada passo.  
 <br>
 <br>
-<h2 style='font-weight: bold; font-size: 30px;'>Linguagem de programação e Framework que uso.</h2>
-<br>
-<p align="left">
-<img src="https://img.icons8.com/?size=100&id=J79emsSv2QCu&format=png&color=000000" alt="Logo 1" width="50px"/><img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="Logo 2" width="50px"/>
-</p>
-<p>
-  <h1>Multiplataforma</h1>
-  <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000">
-</p>
-<h1>Banco de Dados</h1>
-<img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" width="50px" >
-Desenvolvedor Web em Formação | Foco em React e Node.js.
-📍 Medianeira, PR | 📧 eliasblum79@gmail.com | 📞 (45) 99118-9959 | 
-<br>
-- Ferramentas e Plataformas :
-<br>
-<br>
-<p align="left"><img src="https://img.icons8.com/?size=100&id=ARy6tFUfwclb&format=png&color=000000" width="50px" alt="github-logo"> <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" width="50px"/>
+## 🚀 Tecnologias & Ferramentas
+<p align="center">
+<img src='https://img.icons8.com/?size=100&id=20909&format=png&color=000000' width='60px'>
+<img src='https://img.icons8.com/?size=100&id=21278&format=png&color=000000' width='60px'>
+<img src='https://img.icons8.com/?size=100&id=108784&format=png&color=000000' width='60px'>
+<img src='https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000' width='60px'>
+<img src='https://img.icons8.com/?size=100&id=20906&format=png&color=000000' width='60px'>
+<img src='https://img.icons8.com/?size=100&id=106567&format=png&color=000000' width='60px'>
+<img src='https://img.icons8.com/?size=100&id=123603&format=png&color=000000' width='60px'>
+<img src='https://img.icons8.com/?size=100&id=54087&format=png&color=000000' width='60px'>
+<img src='https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000' width='60px'>
 </p>
 
 Acesse Minhas Redes Sociais: :point_down:
