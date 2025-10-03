@@ -1,11 +1,16 @@
-<h1 style='font-weight: bold; font-size: 40px;'>Olá :wave: me chamo Elias</h1>
-
-Sou um desenvolvedor **Full-Stack** apaixonado por criar projetos interativos e aprender novas tecnologias.  
-Atualmente estou explorando **React e Node.js**, e desenvolvendo projetos pessoais.  
-Tenho como inspiração o mestre **Rodolfo Mori** e sigo sempre aprendendo, errando, mas evoluindo a cada passo.  
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #1e3c72, #2a5298); -webkit-background-clip: text; color: transparent;">
+    👋 Olá, sou Elias Blum da Silva!
+  </span>
+</h1>
 <br>
+<p align="center">
+Sou um Programador dev <strong>Full-Stack</strong> apaixonado por criar projetos interativos e aprender novas tecnologias.  
+Atualmente estou explorando <strong>React e Node.js</strong>, e desenvolvendo projetos pessoais.  
+Tenho como inspiração o mestre <strong>Rodolfo Mori</strong> e sigo sempre aprendendo, errando, mas evoluindo a cada passo.
+</p>
 <br>
-## 🚀 Tecnologias & Ferramentas
+🚀 <strong>Tecnologias e Ferramentas<strong />
 <p align="center">
 <img src='https://img.icons8.com/?size=100&id=20909&format=png&color=000000' width='60px'>
 <img src='https://img.icons8.com/?size=100&id=21278&format=png&color=000000' width='60px'>
@@ -37,6 +42,15 @@ Acesse Minhas Redes Sociais: :point_down:
 </p>
 
 <br>
+🌱 <strong>Sobre mim</strong>
+<br>
+<br>
+<p style="background: #e0f7fa; padding: 10px; border-radius: 8px;">
+📚 Aprendendo constantemente, mesmo quando erro <br>
+🎯 Foco em Front-end e Back-end <br>
+🤝 Aberto a colaborações e novos desafios <br>
+🌟 Adoro experimentar gradientes animados e efeitos CSS
+</p>
 
 
 
