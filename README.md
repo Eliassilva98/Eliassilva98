@@ -14,7 +14,7 @@
   <img src='https://cdn-icons-png.flaticon.com/128/733/733609.png' width='60'>
 </div>
 
----
+----
 
 ### 📌 Projetos em destaque
 - 🔹 Conversor de Moedas
@@ -31,7 +31,7 @@ Acredito que errar faz parte do processo e cada projeto me deixa um passo mais p
 ---
 
 ### 📫 Onde me encontrar
-<a href='www.linkedin.com/in/eliasblumdasilva98'>
+<a href='https://www.linkedin.com/in/eliasblumdasilva98'>
   <img src='https://cdn-icons-png.flaticon.com/128/3536/3536505.png' width='50'>
 </a>
 
