@@ -56,7 +56,5 @@ Acesse Minhas Redes Sociais: :point_down:
 
 <br>
 
-![Anurag's Elias stats](https://github-readme-stats.vercel.app/api?username=Eliassilva98&show_icons=true&theme=transparent)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eliassilva98&layout=compact)
+
 
