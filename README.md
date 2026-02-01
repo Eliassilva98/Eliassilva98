@@ -21,6 +21,7 @@
 - 🔹 Sorteador de Números
 - 🔹 Jokenpô (Pedra, Papel e Tesoura)
 - 🔹 Cronômetro em JavaScript
+- 🔹 Calculadora em JavaScript
 
 ---
 
