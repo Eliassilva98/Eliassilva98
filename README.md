@@ -11,6 +11,7 @@
   <img src='https://cdn-icons-png.flaticon.com/128/226/226269.png' width='60'>
   <img src='https://cdn-icons-png.flaticon.com/128/15474/15474190.png' width='60'>
   <img src='https://cdn-icons-png.flaticon.com/128/5968/5968292.png' width='60'>
+  <img src='https://cdn-icons-png.flaticon.com/128/15484/15484268.png' width='60'>
   <img src='https://cdn-icons-png.flaticon.com/128/733/733609.png' width='60'>
 </div>
 
