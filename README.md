@@ -1,48 +1,45 @@
-## 👋 Olá, eu sou o Elias!
+<p>Se a vida me der erros no console, eu transformo em aprendizado e subo um novo commit</p>
 
-💻 Desenvolvedor Front-end em formação  
-📚 Estudante de programação no DevClub  
-🎯 Focado em evoluir todos os dias e construir projetos reais
+Olá eu sou o Elias Blum da Silva
 
----
+Estudante de Engenharia de software e programação | Dev Front End
 
-### 🚀 Tecnologias que estudo
+🧑🏻‍💻 Sobre mim
+Sou um desenvolvedor Front-End e estudante do 2° semestre de Engenharia de software na Estácio. Minha jornada na tecnologia começou com o curso de programação com o Rodolfo Mori, o que me deu uma base sólida que hoje aplico com foco em desenvolvimento de software.
+
 <div align="center">
-  <img src='https://cdn-icons-png.flaticon.com/128/226/226269.png' width='60'>
-  <img src='https://cdn-icons-png.flaticon.com/128/15474/15474190.png' width='60'>
-  <img src='https://cdn-icons-png.flaticon.com/128/5968/5968292.png' width='60'>
-  <img src='https://cdn-icons-png.flaticon.com/128/15484/15484268.png' width='60'>
-  <img src='https://cdn-icons-png.flaticon.com/128/733/733609.png' width='60'>
+  <h3>Front End</h3>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+    <img src='https://logowik.com/content/uploads/images/styled-components2357.logowik.com.webp' width='40' height='40' alt='Styled-components'>
+    <img src='https://cdn-icons-png.flaticon.com/128/733/733609.png' width='40' height='40' alt='GitHub'>
+    <img src='https://code.visualstudio.com/assets/branding/code-stable.png' width='40' height='40' alt='vs-code'>
+    <img src='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/jest-js-icon.png' width='40' height='40' alt='Jest'>
+    <img src='https://cdn-icons-png.flaticon.com/128/15466/15466163.png' width='40' height='40' alt='git'> 
+  </p>
+  <h3>Back End</h3>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+    <img src="https://images.seeklogo.com/logo-png/44/1/mongodb-logo-png_seeklogo-444844.png" width="40" height="40" alt='MongoDB'/>
+    <img src="https://logowik.com/content/uploads/images/axios3626.jpg" width="40" height="40" alt='Axios'/>
+  </p>
+  <p style="font-size: 0.8em; color: #666;">
+  </p>
 </div>
 
-----
+<p align="center">Projetos</p>
 
-### 📌 Projetos em destaque
-- 🔹 Conversor de Moedas
-- 🔹 Sorteador de Números
-- 🔹 Jokenpô (Pedra, Papel e Tesoura)
-- 🔹 Cronômetro em JavaScript
-- 🔹 Calculadora em JavaScript
+<div align="center">
+  <img src='https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' >
+</div>
 
----
 
-### 🌱 Sobre mim
-Sou apaixonado por tecnologia e aprendizado contínuo.  
-Acredito que errar faz parte do processo e cada projeto me deixa um passo mais perto de me tornar um desenvolvedor profissional.
 
----
 
-### 📫 Onde me encontrar
-<a href='https://www.linkedin.com/in/eliasblumdasilva98'>
-  <img src='https://cdn-icons-png.flaticon.com/128/3536/3536505.png' width='50'>
-</a>
-<br>
-<br>
-<p>Tecnologias que utilizo 🚀</p> 
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 
