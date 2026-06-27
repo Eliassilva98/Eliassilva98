@@ -35,6 +35,22 @@ Sou um desenvolvedor Front-End e estudante do 2° semestre de Engenharia de soft
 <div align="center">
   <img src='https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif' >
 </div>
+<div align="left">
+  <h3>
+    <span style="color: #58a6ff;">•</span> Conversor-Word-PDF
+  </h3>
+  <p style="color: #8b949e; font-size: 14px;">
+    Plataforma web que desenvolvi para converter arquivos Word (.docx) em PDF de forma rápida e prática.
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+    <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled-Components"/>
+    <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  </p>
+  <a href="">
+    🔗 Ver no GitHub
+  </a>
+</div>
 
 
 
