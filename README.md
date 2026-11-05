@@ -63,7 +63,7 @@ Sou um desenvolvedor Front-End e estudante do 2° semestre de Engenharia de soft
     <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled-Components"/>
     <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   </p>
-  <a href="https://github.com/Eliassilva98/">
+  <a href="https://github.com/Eliassilva98/bank-dashboard-frontend">
     🔗 Ver no GitHub
   </a>
 </div>
